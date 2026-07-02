@@ -46,7 +46,7 @@ echo "Meta a largo plazo: vivir y trabajar en Japón"
 </td>
 <td width="30%" align="center">
 
-<img src="https://media.tenor.com/A9l6wcduSXsAAAAj/lain-dance.gif" width="110"/> <img src="https://media.tenor.com/dHk-LfzHrtwAAAAi/linux-computer.gif" width="90"/>
+<img src="https://media.tenor.com/A9l6wcduSXsAAAAj/lain-dance.gif" width="150"/> <img src="https://media.tenor.com/dHk-LfzHrtwAAAAi/linux-computer.gif" width="90"/>
 
 </td>
 </tr>
@@ -109,7 +109,7 @@ Mi setup actual corre sobre **Ubuntu + GNOME**, personalizado con Dash to Dock, 
 <div align="center">
 
 <img src="https://github-stats-extended.vercel.app/api?username=Emanuup&show_icons=true&theme=dracula&hide_border=true&bg_color=0d1117&title_color=FF00C8&icon_color=00FFF2&text_color=c9d1d9" width="49%"/>
-<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Emanuup&layout=compact&theme=dracula&hide_border=true&bg_color=0d1117&title_color=FF00C8&text_color=c9d1d9" width="49%"/>
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Emanuup&layout=compact&langs_count=8&theme=dracula&hide_border=true&bg_color=0d1117&title_color=FF00C8&text_color=c9d1d9" width="49%"/>
 
 <img src="https://github-readme-streak-stats-eight.vercel.app/?user=Emanuup&theme=dracula&hide_border=true&background=0D1117&ring=FF00C8&fire=00FFF2&currStreakLabel=FF00C8" width="70%"/>
 
