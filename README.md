@@ -111,6 +111,8 @@ Mi setup actual corre sobre **Ubuntu + GNOME** personalizado, Tambien estoy haci
 
 [![GitHub Stats](https://github-stats-extended.vercel.app/api?username=emanuup&rank_icon=github&hide_title=true&show_icons=true&include_all_commits=true&theme=aura_dark)](https://github-stats-extended.vercel.app/api?username=emanuup&rank_icon=github&hide_title=true&show_icons=true&include_all_commits=true&theme=aura_dark)
 
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/wakatime?username=Emanuup&custom_title=Lenguajes%20de%20programaci%C3%B3n&langs_count=6&display_format=percent&theme=catppuccin_mocha)](https://wakatime.com/@Emanuup)
+
 ![Visitantes](https://komarev.com/ghpvc/?username=Emanuup&label=NODOS+CONECTADOS&color=0d1117&style=for-the-badge)
 
 </div>
