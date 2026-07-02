@@ -6,8 +6,9 @@
 <a href="https://github.com/Emanuup"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=00FFF2" height="35"/></a>
 <a href="https://TU-PORTFOLIO.vercel.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=FF00C8" height="35"/></a>
 
-<!-- BANNER: reemplaza esta línea por tu propio banner personalizado, ver instrucciones abajo -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00fff2,100:ff00c8&height=200&section=header&text=Emanuuel&fontSize=60&fontColor=0d1117&animation=fadeIn&fontAlignY=35&desc=Software%20Engineering%20Student%20%7C%20Linux%20Ricer&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=text&color=0:0d1117,50:00fff2,100:ff00c8&height=100&text=Emmanuel&fontSize=45&fontColor=0d1117&animation=fadeIn&desc=Software%20Engineering%20Student%20%7C%20Linux%20Ricer&descAlignY=75&descSize=15" width="100%"/>
+
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnF6a3dyYWdoaWxic2NsaDBhNmt2aXRrOGp4bjU1ZzNmYnQ2eTRtbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/PZrjGkr334fXa/giphy.gif" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=00FFF2&center=true&vCenter=true&width=600&lines=root%40emanuup%3A~%24+whoami;Estudiante+de+Ingenier%C3%ADa+de+Software;Linux+%2B+Hyprland+%2F+GNOME+ricer;Aspirante+a+Frontend+%2F+IT+Support;Rumbo+a+Jap%C3%B3n+%F0%9F%87%AF%F0%9F%87%B5" alt="Typing SVG" />
 
@@ -31,6 +32,10 @@ la conciencia también es un protocolo
 
 ## `~$` about-me.sh
 
+<table>
+<tr>
+<td width="70%">
+
 ```bash
 #!/bin/bash
 echo "Estudiante de Ingeniería de Software en Colombia (técnico, 2026)"
@@ -40,20 +45,22 @@ echo "Objetivo: absorber todo lo que se pueda — sin límite de stack"
 echo "Meta a largo plazo: vivir y trabajar en Japón"
 ```
 
+</td>
+<td width="30%" align="center">
+
+<img src="https://media1.tenor.com/m/bp7oiFot974AAAAd/smol-lain-dance.gif" width="120"/>
+
+</td>
+</tr>
+</table>
+
 <br>
 
 ## `~$` tech-stack
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=FF00C8" height="35"/>
-<img src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=FF00C8" height="35"/>
-<img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=00FFF2" height="35"/>
-<img src="https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk&logoColor=FF00C8" height="35"/>
-<img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=00FFF2" height="35"/>
-<img src="https://img.shields.io/badge/Lua-000000?style=for-the-badge&logo=lua&logoColor=00FFF2" height="35"/>
-<img src="https://img.shields.io/badge/Bash-000000?style=for-the-badge&logo=gnubash&logoColor=FF00C8" height="35"/>
-<img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=00FFF2" height="35"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,java,python,lua,bash,react&theme=dark" />
 
 </div>
 
@@ -64,7 +71,7 @@ echo "Meta a largo plazo: vivir y trabajar en Japón"
 <div align="center">
 
 <a href="https://github.com/Emanuup/TU-PROYECTO">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Emanuup&repo=TU-PROYECTO&theme=dracula&hide_border=true&bg_color=0d1117&title_color=FF00C8&icon_color=00FFF2&text_color=c9d1d9&cache_seconds=86400" width="49%"/>
+  <img src="https://github-stats-extended.vercel.app/api/pin/?username=Emanuup&repo=TU-PROYECTO&theme=dracula&hide_border=true&bg_color=0d1117&title_color=FF00C8&icon_color=00FFF2&text_color=c9d1d9" width="49%"/>
 </a>
 
 </div>
@@ -89,7 +96,7 @@ echo "Meta a largo plazo: vivir y trabajar en Japón"
 
 ## `~$` dotfiles
 
-Mi setup actual corre sobre **Ubuntu + GNOME**, personalizado con Dash to Dock, Blur my Shell, Hidamari y Spicetify.Tambien estoy personalizando mi propio entorno de escririo sobre **CachyOS + Hyprland** que es donde va a estar subido a mis dotfiles para el que lo quiera clonar y usarlo.
+Mi setup actual corre sobre **Ubuntu + GNOME**, personalizado con Dash to Dock, Blur my Shell, Hidamari y Spicetify. Antes usé **CachyOS + Hyprland**. Estética: oscuro + neón, minimalista, sin recargar.
 
 <div align="center">
 
@@ -103,8 +110,8 @@ Mi setup actual corre sobre **Ubuntu + GNOME**, personalizado con Dash to Dock, 
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Emanuup&show_icons=true&theme=dracula&hide_border=true&bg_color=0d1117&title_color=FF00C8&icon_color=00FFF2&text_color=c9d1d9&cache_seconds=86400" width="49%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Emanuup&layout=compact&theme=dracula&hide_border=true&bg_color=0d1117&title_color=FF00C8&text_color=c9d1d9&cache_seconds=86400" width="49%"/>
+<img src="https://github-stats-extended.vercel.app/api?username=Emanuup&show_icons=true&theme=dracula&hide_border=true&bg_color=0d1117&title_color=FF00C8&icon_color=00FFF2&text_color=c9d1d9" width="49%"/>
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Emanuup&layout=compact&theme=dracula&hide_border=true&bg_color=0d1117&title_color=FF00C8&text_color=c9d1d9" width="49%"/>
 
 <img src="https://github-readme-streak-stats-eight.vercel.app/?user=Emanuup&theme=dracula&hide_border=true&background=0D1117&ring=FF00C8&fire=00FFF2&currStreakLabel=FF00C8" width="70%"/>
 
