@@ -89,7 +89,7 @@ echo "Meta a largo plazo: vivir y trabajar en Japón"
 
 ## `~$` dotfiles
 
-Mi setup actual corre sobre **Ubuntu + GNOME**, personalizado con Dash to Dock, Blur my Shell, Hidamari y Spicetify. Antes usé **CachyOS + Hyprland**. Estética: oscuro + neón, minimalista, sin recargar.
+Mi setup actual corre sobre **Ubuntu + GNOME**, personalizado con Dash to Dock, Blur my Shell, Hidamari y Spicetify.Tambien estoy personalizando mi propio entorno de escririo sobre **CachyOS + Hyprland** que es donde va a estar subido a mis dotfiles para el que lo quiera clonar y usarlo.
 
 <div align="center">
 
