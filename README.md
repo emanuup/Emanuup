@@ -32,7 +32,7 @@ la conciencia también es un protocolo
 
 <table>
 <tr>
-<td width="70%">
+<td width="75%">
 
 ```bash
 #!/bin/bash
@@ -46,7 +46,7 @@ echo "Meta a largo plazo: vivir y trabajar en Japón"
 </td>
 <td width="30%" align="center">
 
-<img src="https://media.tenor.com/A9l6wcduSXsAAAAj/lain-dance.gif" width="185"/> <img src="https://media.tenor.com/dHk-LfzHrtwAAAAi/linux-computer.gif" width="115"/>
+<img src="https://media.tenor.com/A9l6wcduSXsAAAAj/lain-dance.gif" width="180"/> <img src="https://media.tenor.com/dHk-LfzHrtwAAAAi/linux-computer.gif" width="110"/>
 
 </td>
 </tr>
