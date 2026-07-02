@@ -46,7 +46,7 @@ echo "Meta a largo plazo: vivir y trabajar en Japón"
 </td>
 <td width="30%" align="center">
 
-<img src="https://media.tenor.com/A9l6wcduSXsAAAAj/lain-dance.gif" width="100"/> <img src="https://media.tenor.com/dHk-LfzHrtwAAAAi/linux-computer.gif" width="100"/>
+<img src="https://media.tenor.com/A9l6wcduSXsAAAAj/lain-dance.gif" width="130"/> <img src="https://media.tenor.com/dHk-LfzHrtwAAAAi/linux-computer.gif" width="100"/>
 
 </td>
 </tr>
@@ -107,10 +107,6 @@ Mi setup actual corre sobre **Ubuntu + GNOME**, personalizado con Dash to Dock, 
 ## `~$` stats
 
 <div align="center">
-
-<img src="https://github-readme-streak-stats-eight.vercel.app/?user=Emanuup&theme=dracula&hide_border=true&background=0D1117&ring=FF00C8&fire=00FFF2&currStreakLabel=FF00C8" width="70%"/>
-
-<br>
 
 ![Visitantes](https://komarev.com/ghpvc/?username=Emanuup&label=NODOS+CONECTADOS&color=0d1117&style=for-the-badge)
 
