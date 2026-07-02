@@ -106,7 +106,10 @@ Mi setup actual corre sobre **Ubuntu + GNOME** personalizado, Tambien estoy haci
 
 ## `~$` stats
 
+
 <div align="center">
+
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=emanuup&rank_icon=github&hide_title=true&show_icons=true&include_all_commits=true&theme=aura_dark)](https://github-stats-extended.vercel.app/api?username=emanuup&rank_icon=github&hide_title=true&show_icons=true&include_all_commits=true&theme=aura_dark)
 
 ![Visitantes](https://komarev.com/ghpvc/?username=Emanuup&label=NODOS+CONECTADOS&color=0d1117&style=for-the-badge)
 
