@@ -64,7 +64,7 @@ echo "Meta a largo plazo: vivir y trabajar en Japón"
 <div align="center">
 
 <a href="https://github.com/Emanuup/TU-PROYECTO">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Emanuup&repo=TU-PROYECTO&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00FFF2&icon_color=FF00C8&text_color=c9d1d9" width="49%"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Emanuup&repo=TU-PROYECTO&theme=dracula&hide_border=true&bg_color=0d1117&title_color=FF00C8&icon_color=00FFF2&text_color=c9d1d9&cache_seconds=86400" width="49%"/>
 </a>
 
 </div>
@@ -103,10 +103,10 @@ Mi setup actual corre sobre **Ubuntu + GNOME**, personalizado con Dash to Dock, 
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Emanuup&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00FFF2&icon_color=FF00C8&text_color=c9d1d9" width="49%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Emanuup&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00FFF2&text_color=c9d1d9" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Emanuup&show_icons=true&theme=dracula&hide_border=true&bg_color=0d1117&title_color=FF00C8&icon_color=00FFF2&text_color=c9d1d9&cache_seconds=86400" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Emanuup&layout=compact&theme=dracula&hide_border=true&bg_color=0d1117&title_color=FF00C8&text_color=c9d1d9&cache_seconds=86400" width="49%"/>
 
-<img src="https://streak-stats.demolab.com?user=Emanuup&theme=tokyonight&hide_border=true&background=0d1117&ring=00FFF2&fire=FF00C8&currStreakLabel=00FFF2" width="70%"/>
+<img src="https://github-readme-streak-stats-eight.vercel.app/?user=Emanuup&theme=dracula&hide_border=true&background=0D1117&ring=FF00C8&fire=00FFF2&currStreakLabel=FF00C8" width="70%"/>
 
 <br>
 
