@@ -6,9 +6,7 @@
 <a href="https://github.com/Emanuup"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=00FFF2" height="35"/></a>
 <a href="https://TU-PORTFOLIO.vercel.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=FF00C8" height="35"/></a>
 
-<img src="https://capsule-render.vercel.app/api?type=text&color=0:0d1117,50:00fff2,100:ff00c8&height=100&text=Emmanuel&fontSize=45&fontColor=0d1117&animation=fadeIn&desc=Software%20Engineering%20Student%20%7C%20Linux%20Ricer&descAlignY=75&descSize=15" width="100%"/>
-
-<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnF6a3dyYWdoaWxic2NsaDBhNmt2aXRrOGp4bjU1ZzNmYnQ2eTRtbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/PZrjGkr334fXa/giphy.gif" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00fff2,100:ff00c8&height=200&section=header&text=Emmanuel&fontSize=60&fontColor=0d1117&animation=fadeIn&fontAlignY=35&desc=Software%20Engineering%20Student%20%7C%20Linux%20Ricer&descAlignY=55&descSize=18" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=00FFF2&center=true&vCenter=true&width=600&lines=root%40emanuup%3A~%24+whoami;Estudiante+de+Ingenier%C3%ADa+de+Software;Linux+%2B+Hyprland+%2F+GNOME+ricer;Aspirante+a+Frontend+%2F+IT+Support;Rumbo+a+Jap%C3%B3n+%F0%9F%87%AF%F0%9F%87%B5" alt="Typing SVG" />
 
@@ -49,6 +47,8 @@ echo "Meta a largo plazo: vivir y trabajar en Japón"
 <td width="30%" align="center">
 
 <img src="https://media1.tenor.com/m/bp7oiFot974AAAAd/smol-lain-dance.gif" width="120"/>
+<br>
+<img src="https://media.tenor.com/dHk-LfzHrtwAAAAi/linux-computer.gif" width="150"/>
 
 </td>
 </tr>
