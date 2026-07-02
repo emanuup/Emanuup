@@ -32,7 +32,7 @@ la conciencia también es un protocolo
 
 <table>
 <tr>
-<td width="75%">
+<td width="70%">
 
 ```bash
 #!/bin/bash
