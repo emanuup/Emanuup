@@ -46,7 +46,7 @@ echo "Meta a largo plazo: vivir y trabajar en Japón"
 </td>
 <td width="30%" align="center">
 
-<img src="https://media.tenor.com/A9l6wcduSXsAAAAj/lain-dance.gif" width="180"/> <img src="https://media.tenor.com/dHk-LfzHrtwAAAAi/linux-computer.gif" width="110"/>
+<img src="https://media.tenor.com/A9l6wcduSXsAAAAj/lain-dance.gif" width="170"/> <img src="https://media.tenor.com/dHk-LfzHrtwAAAAi/linux-computer.gif" width="105"/>
 
 </td>
 </tr>
