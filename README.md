@@ -40,7 +40,7 @@ echo "Estudiante de Ingeniería de Software en Colombia (técnico, 2026)"
 echo "Trabajo entre semana, estudio los fines de semana"
 echo "Actualmente en modo: personalización de escritorio Linux"
 echo "Objetivo: absorber todo lo que se pueda — sin límite de stack"
-echo "Meta a largo plazo: vivir y trabajar en Japón"
+echo "Meta a largo plazo: vivir y trabajar en el extranjero"
 ```
 
 </td>
@@ -114,17 +114,6 @@ Mi setup actual corre sobre **Ubuntu + GNOME** personalizado, Tambien estoy haci
 [![GitHub Stats](https://github-stats-extended.vercel.app/api/wakatime?username=Emanuup&custom_title=Lenguajes%20de%20programaci%C3%B3n&langs_count=6&display_format=percent&theme=catppuccin_mocha)](https://wakatime.com/@Emanuup)
 
 ![Visitantes](https://komarev.com/ghpvc/?username=Emanuup&label=NODOS+CONECTADOS&color=0d1117&style=for-the-badge)
-
-</div>
-
-<br>
-
-## `~$` contribution-graph
-
-<div align="center">
-
-<!-- Esta imagen se genera con una GitHub Action, ver instrucciones abajo -->
-<img src="https://raw.githubusercontent.com/Emanuup/Emanuup/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 
 </div>
 
