@@ -8,7 +8,7 @@
 
 <img src="https://raw.githubusercontent.com/Emanuup/Emanuup/main/banner.gif" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=00FFF2&center=true&vCenter=true&width=600&lines=root%40emanuup%3A~%24+whoami;Estudiante+de+Ingenier%C3%ADa+de+Software;Linux+%2B+Hyprland+%2F+GNOME+ricer;Aspirante+a+Frontend+%2F+IT+Support" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=00FFF2&center=true&vCenter=true&width=600&lines=root%40emanuup%3A~%24+whoami;Estudiante+de+Ingenier%C3%ADa+de+Software;Linux+%2B+Hyprland+%2F+GNOME+ricer;IT+Support" alt="Typing SVG" />
 
 </div>
 
